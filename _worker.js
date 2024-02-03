@@ -6,7 +6,7 @@ import { connect } from "cloudflare:sockets";
 
 // How to generate your own UUID:
 // https://www.uuidgenerator.net/
-let userID = "XXXX";
+let userID = "9c7f6510-aa6c-461f-8060-f3fdd47a480c";
 
 const proxyIPs = ['cdn.xn--b6gac.eu.org', 'cdn-all.xn--b6gac.eu.org', 'edgetunnel.anycast.eu.org'];
 
